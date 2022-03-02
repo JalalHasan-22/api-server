@@ -2,7 +2,7 @@
 
 ## deployed app link
 
-[App on Heroku]()
+[App on Heroku](https://jalal-api-server-lab04.herokuapp.com/)
 
 In this lab, I will build everything from scratch just as recommended, it is a great idea to practice the new concepts and get used to everything.
 
